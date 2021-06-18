@@ -1,4 +1,4 @@
-module gocode/quote
+module gocode.com/quote
 
 go 1.13
 
